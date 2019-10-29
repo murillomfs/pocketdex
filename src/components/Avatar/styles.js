@@ -11,7 +11,7 @@ export const Container = styled.div`
         width: 180px;
         height: 180px;
         background: rgba(255,255,255,.6);
-        border-radius: 100%
+        border-radius: 100%;
     }
 
     span { color: #fff; font-size: 18px; font-weight: 600; display: block; margin-top: 30px; }
